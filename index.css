@@ -4,9 +4,7 @@ h1 {
   font-style:italic;
   font-family:chalkduster,fantasy;
   font-size:100px;
-  outline-style:solid;
-  outline-width:5px;
-  outline-color:#089624;
+  outline: 4px dotted #089624;
 }
 
 .code {
