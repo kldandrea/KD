@@ -5,6 +5,7 @@ h1 {
   font-family:chalkduster,fantasy;
   font-size:100px;
   outline: 4px dotted #089624;
+  outline-offset:30px;
 }
 
 .code {
