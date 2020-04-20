@@ -4,8 +4,9 @@ h1 {
   font-style:italic;
   font-family:chalkduster,fantasy;
   font-size:100px;
-  outline: 4px groove #051203;
-  outline-offset:15px;
+  outline-style:groove; 
+  outline-color:#051203;
+  outline-width:thick;
 }
 
 .code {
